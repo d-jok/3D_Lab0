@@ -1,0 +1,28 @@
+﻿  Split.cpp
+d:\програмы\amc course\lab0\lab0\split.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\split.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\split.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\cube.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\cube.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\cube.h(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\cube.h(6): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\sphere.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\sphere.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\sphere.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\sphere.h(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\sphere.h(6): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\split.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\split.h(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\split.h(6): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\програмы\amc course\lab0\lab0\split.cpp(90): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(449): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(469): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(486): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(488): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(516): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(438): warning C4101: check: неиспользованная локальная переменная
+d:\програмы\amc course\lab0\lab0\split.cpp(601): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(613): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(624): warning C4018: <: несоответствие типов со знаком и без знака
+d:\програмы\amc course\lab0\lab0\split.cpp(569): warning C4715: Split::CheckPositionPoint: значение возвращается не при всех путях выполнения
+  Lab0.vcxproj -> D:\Програмы\AMC Course\Lab0\Debug\Lab0.exe
